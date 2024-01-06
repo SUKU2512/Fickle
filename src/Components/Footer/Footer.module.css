@@ -1,0 +1,19 @@
+.rotate{
+    margin-left: 3px;
+    position: fixed;
+    position: absolute;
+    rotate: -40deg;
+}
+li{
+    list-style: none;
+    margin-top: 5px;
+    color:white;
+}
+.title{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 5%;
+    color:white;
+}
+.Footer{
+    background-image: linear-gradient(120deg, rgb(70, 70, 254),rgb(108, 132, 255),rgb(4, 4, 245));
+}
